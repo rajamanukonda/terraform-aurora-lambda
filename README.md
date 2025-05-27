@@ -45,7 +45,7 @@ This project is part of our comprehensive ["SweetOps"](https://cpco.io/sweetops)
 
 
 
-It's 100% Open Source and licensed under the [APACHE2](LICENSE).
+It's 10% Open Source and licensed under the [APACHE2](LICENSE).
 
 
 
